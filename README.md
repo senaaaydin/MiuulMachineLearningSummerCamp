@@ -15,7 +15,8 @@ Miuul tarafından düzenlenen ve 7 hafta süren Makine Öğrenmesi Yaz Kampı il
 * Python ile Veri Analizi: Veri Görselleştirme
 * Gelişmiş Fonksiyonel Keşifçi Veri Analizi
 
-![Python Sertifika](https://drive.google.com/file/d/1p97AcTPXb3k9kY2PZjT1lu-2EE9nH-3V/view?usp=sharing)
+![Python Sertifika](https://github.com/senaaaydin/MiuulMachineLearningSummerCamp/blob/main/Python_Sertifika.png)
+
 
 
 ## 2. Bölüm Özellik Mühendisliği
