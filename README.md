@@ -27,6 +27,10 @@ Miuul tarafından düzenlenen ve 7 hafta süren Makine Öğrenmesi Yaz Kampı il
 * Feature Extraction
 * Uygulama
 
+![Özellik Mühendisliği Sertifika](https://github.com/senaaaydin/MiuulMachineLearningSummerCamp/blob/main/Feature_Engineering.png)
+
+
+
 ## 3. Bölüm Makine Öğrenmesi
 
 * Temel Kavramlar
@@ -39,5 +43,7 @@ Miuul tarafından düzenlenen ve 7 hafta süren Makine Öğrenmesi Yaz Kampı il
 * Denetimsiz Öğrenme
 * Makine Öğrenmesi Pipeline
 
+
+![Makine Öğrenmesi Sertifika](https://github.com/senaaaydin/MiuulMachineLearningSummerCamp/blob/main/MachineLearning.png)
 
 
